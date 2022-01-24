@@ -196,6 +196,8 @@ body {
 
 @media only screen and (max-width: 600px) {
   body {
-    zoom: 60%;
+     zoom: 55%;
+    height: 125vh;
+    min-height: 120vh;
   }
 }
