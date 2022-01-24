@@ -53,7 +53,7 @@ const Temp = () => {
           />
           <button
             className="searchButton"
-            type="button"
+            type="submit"
             onClick={getWeatherInfo}
           >
             Search
