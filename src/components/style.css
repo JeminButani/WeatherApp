@@ -85,13 +85,12 @@ body {
 }
 .widget .date {
   flex: 0 0 0 30%;
-  height: 40%;
   background: #70c1b3;
   display: flex;
   justify-content: space-around;
   align-items: center;
   color: white;
-  font-size: 30px;
+  font-size: 200%;
   font-weight: 800;
   text-align: center;
   padding: 2.1%;
